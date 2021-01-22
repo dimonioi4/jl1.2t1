@@ -3,7 +3,7 @@
 
 22.01.2021 - 22.01.2021 было проведено функциональное тестирование, тестирование граничных типов приложения Money Transfer.
 
-[Код программы Money Transfer ]()
+[Код программы Money Transfer ](https://github.com/dimonioi4/jl1.2t1/blob/master/main.java)
 
 На тестирование затрачено: 1 час.
 
